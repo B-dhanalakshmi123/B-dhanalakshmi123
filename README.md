@@ -20,7 +20,7 @@
   <div class="card">
     <h1>Hi, I'm Dhana!</h1>
     <p>I'm learning Python and Flask. I build small web apps and websites for practice and freelancing.</p>
-    <p>📫 Contact me: dhanalakshmi162420@email.com</p>
+    <p>📫 Contact me: dhanalakshmi162420@gmail.com</p>
   </div>
 </body>
 </html>
